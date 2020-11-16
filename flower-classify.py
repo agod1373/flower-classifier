@@ -12,6 +12,7 @@ from PIL import Image
 print()
 print()
 print()
+print()
 
 print('Welcome to the Flower Classifer! Please follow the steps to classify your flower.')
 time.sleep(1)
